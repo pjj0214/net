@@ -11,4 +11,4 @@ JJ
 어렵다
 
 ## 💻preview
-!(pjj0214.github.io_net_ (1).png)
+!(https://github.com/pjj0214/net/issues/1#issue-2490806085)
